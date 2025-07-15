@@ -1,4 +1,4 @@
-# Hospita
+# Hoxpital
 
 A decentralized application (dApp) for online medical services, built in Rust.  
 Users can access medical services, book appointments with doctors, and check drug availability in nearby pharmacies.
